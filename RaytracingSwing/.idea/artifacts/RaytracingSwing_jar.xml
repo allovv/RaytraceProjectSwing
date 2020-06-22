@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RaytracingSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RaytracingSwing_jar</output-path>
+    <root id="archive" name="RaytracingSwing.jar">
+      <element id="module-output" name="RaytracingSwing" />
+    </root>
+  </artifact>
+</component>

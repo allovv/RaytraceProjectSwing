@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scene>
+   <objects>
+      <sphere x="-40" y="10" z="-40" color="Silver" radius="10"/>
+      <sphere x="40" y="10" z="-40" color="Silver" radius="10"/>
+      <sphere x="-40" y="10" z="40" color="Silver" radius="10"/>
+      <sphere x="40" y="10" z="40" color="Silver" radius="10"/>
+   </objects>
+   <lightings>
+      <light intensity="0.9" x="0" y="10" z="0"/>
+   </lightings>
+   <view>
+      <camera x="10" y="30" z="-180"/>
+   </view>
+</scene>
